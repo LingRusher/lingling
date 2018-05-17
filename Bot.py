@@ -23,4 +23,4 @@ async def ree(ctx):
 async def rebit(ctx):
     await bot.say("rebit? you mean REEbit MAHEEKA!?! REEBIT!")
 
-bot.run("NDQ2NzA0MTkxMjcyOTEwODU4.Dd85Pw.Sv_Cl5cBzh81AhcyMxUAR_xw3nw")
+bot.run("message me for bot id")
