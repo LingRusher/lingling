@@ -31,7 +31,7 @@ async def rebit(ctx):
 async def streams(ctx):
     embed = discord.Embed(title= "Mapledino Stream", description= "https://www.twitch.tv/thetitaneater", color= 0x00ff00)
     embed.add_field(name= "LingLing Stream", value= "https://www.twitch.tv/spyhawk9", inline= True)
-    embed.add_field(name= "Dad's Stream", value= "https://www.twitch.tv/coxki", inline= True)
+    embed.add_field(name= "Dad's Stream", value= "https://www.twitch.tv/coxki", inline= False)
     embed.set_footer(text= "")
     await bot.say(embed=embed)
     
